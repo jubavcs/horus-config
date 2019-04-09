@@ -19,7 +19,7 @@ spring:
         driver-class-name: com.mysql.jdbc.Driver
         password: 'root'
         platform: mysql
-        url: jdbc:mysql://localhost/horus?verifyServerCertificate=false&useSSL=false&requireSSL=false
+        url: jdbc:mysql://localhost/horusfornecedores?verifyServerCertificate=false&useSSL=false&requireSSL=false
         username: root
     jpa:
         database-platform: org.hibernate.dialect.MySQLDialect
